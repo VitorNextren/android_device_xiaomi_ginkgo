@@ -49,7 +49,6 @@ TARGET_OTA_ASSERT_DEVICE := ginkgo,willow
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
-BOARD_HAVE_BLUETOOTH_QCOM := true
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := trinket
