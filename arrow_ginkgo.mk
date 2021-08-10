@@ -38,8 +38,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 DEVICE_MAINTAINER := Adithya R
 
 # Fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ2A.210405.005 7181113 release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
+BUILD_DESCRIPTION := redfin-user 11 RQ3A.210805.001.A1 7474174 release-keys
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
