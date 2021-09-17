@@ -15,6 +15,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     GinkgoMiuiCamera
+    WillowFrameworkRes
 
 # AID/fs configs
 PRODUCT_PACKAGES += \
