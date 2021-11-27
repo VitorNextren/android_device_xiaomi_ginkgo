@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fuse_ginkgo.mk
+    $(LOCAL_DIR)/aosp_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    fuse_ginkgo-user \
-    fuse_ginkgo-userdebug \
-    fuse_ginkgo-eng
+    aosp_ginkgo-user \
+    aosp_ginkgo-userdebug \
+    aosp_ginkgo-eng
